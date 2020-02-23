@@ -1,0 +1,1108 @@
+[
+    {
+        "code": "1",
+        "desc": "Demographic and social statistics",
+        "detail": "Domains 1 to 3 relate to subject-matter activities, typically resulting in data outputs, but also including methodological work aimed at developing or revising standards, and activities related to technical cooperation or training specific to a subject area. ",
+        "main_keys": [],
+        "activities": [
+            {
+                "code": "1.1",
+                "desc": "Population and migration",
+                "detail": "covers work in population and demographic statistics, topics like demography, vital statistics, population structures and growth, demographic projections, families and households (marriages, divorces, household size), migration, refugees and asylum seekers. Excludes - causes of death (1.4) ",
+                "keywords": [
+                    "household size",
+                    "migration",
+                    "demography",
+                    "vital statistics",
+                    "demographic statistics",
+                    "demographic projection",
+                    "asylum seeker",
+                    "population structure",
+                    "population",
+                    "refugee",
+                    "marriage",
+                    "growth",
+                    "families",
+                    "divorces"
+                ],
+                "main_keys": ["population","migration"]
+            },
+            {
+                "code": "1.2",
+                "desc": "Labour",
+                "detail": "covers statistics on labour force, labour market, employment and unemployment; the more detailed topics include economically active population, labour conditions, health and safety at work (accidents at work, occupational injuries and diseases, work-related health problems), working time and other working conditions, strikes and lockouts, job vacancies, job creation. Excludes - migrant workers (1.1) - unemployment insurance and unemployment benefits (1.6) - trade union membership (1.10) - unpaid work (1.11) - statistics on earnings, wages and salaries (2.8) - labour cost (2.8)",
+                "keywords": [
+                    "income",
+                    "economically active population",
+                    "work-related health problems",
+                    "health at work",
+                    "safety at work",
+                    "working time",
+                    "working conditions",
+                    "occupational injuries",
+                    "labour market",
+                    "labour force",
+                    "labour conditions",
+                    "job vacancies",
+                    "job creation",
+                    "unemployment insurance",
+                    "unemployment benefits",
+                    "unemployment",
+                    "work statistics"
+                ],
+                "main_keys": ["labour","work","income"]
+            },
+            {
+                "code": "1.3",
+                "desc": "Education",
+                "detail": "includes educational participation, illiteracy, educational institutions and systems, human and financial resources invested in education, lifelong learning, vocational training and adult learning, impact of education, assessments of student performance, etc. ",
+                "keywords": [
+                    "educational participation",
+                    "educational institutions",
+                    "vocational training",
+                    "student performance",
+                    "lifelong learning",
+                    "adult learning",
+                    "illiteracy",
+                    "education statistics",
+                    "educational systems",
+                    "student performance"
+                ],
+                "main_keys": ["education"]
+            },
+            {
+                "code": "1.4",
+                "desc": "Health",
+                "detail": "covers the health and mortality related statistical activities, including topics like life expectancy, health status, health and safety, health determinants (including lifestyle, nutrition, smoking, alcohol abuse), health resources and expenditure, health care systems, morbidity and mortality (including infant and child mortality), hospital admission, causes of illness and death, specific diseases (e.g. AIDS), disabilities, pharmaceutical consumption and sales, health personnel, remuneration of health professions, environmental health status, health inequality, health accounts. Excludes - work related health and safety (1.2) - victimisation from criminal behaviour (1.8) - traffic accidents and injuries (2.4.4) ",
+                "keywords": [
+                    "health statistics",
+                    "life expectancy",
+                    "child mortality",
+                    "hospital admission",
+                    "alcohol abuse",
+                    "health resources",
+                    "mortality",
+                    "morbidity",
+                    "causes of illness",
+                    "causes of death",
+                    "diseases",
+                    "disabilities",
+                    "disability",
+                    "work related health",
+                    "health care systems",
+                    "environmental health status",
+                    "lifestyle",
+                    "nutrition",
+                    "smoking",
+                    "hospital admission",
+                    "health status",
+                    "health professions",
+                    "health personnel",
+                    "health inequality",
+                    "health determinants",
+                    "health accounts",
+                    "pharmaceutical consumption",
+                    "pharmaceutical sales"
+                ],
+                "upper_keywords": [
+                    "AIDS"
+                ],
+                "main_keys": ["health"]
+            },
+            {
+                "code": "1.5",
+                "desc": "Income and consumption",
+                "detail": "covers statistics on household income and expenditures from household viewpoint (all types of income and expenditure), including topics like distribution of incomes, in-kind income, income transfers received and paid, income- or expenditure-based measures of poverty, consumer protection, consumption patterns, consumer goods and durables, household wealth and debts. Excludes - social protection schemes against various risks (1.6) - tax schemes (2.5) - poverty in a multidimensional sense (3.3.1) - living conditions (3.3.1) - social inclusion/exclusion (3.3.1) ",
+                "keywords": [
+                    "expenditure",
+                    "social protection",
+                    "social inclusion",
+                    "consumer protection",
+                    "household income",
+                    "consumption patterns",
+                    "consumer goods"
+                ],
+                "main_keys": ["consumption","household income"]
+            },
+            {
+                "code": "1.6",
+                "desc": "Social protection",
+                "detail": "deals with statistics on measures to protect people against the risks of inadequate incomes associated with unemployment, ill health, invalidity, old age, parental responsibilities, or inadequate income following the loss of a spouse or parent, etc., includes statistics on pension beneficiaries, social security schemes, social protection expenditure, etc. Excludes - insurance companies as economic actors (2.4.6) - pension funds as actors in financial markets(2.4.6) ",
+                "keywords": [
+                    "social security",
+                    "social protection",
+                    "inadequate income",
+                    "pension funds",
+                    "pension beneficiaries",
+                    "parental responsibilities",
+                    "insurance companies",
+                    "financial markets"
+                ],
+                "main_keys": ["social potection"]
+            },
+            {
+                "code": "1.7",
+                "desc": "Human settlements and housing",
+                "detail": "covers statistical activities on housing, dwellings and human settlements Excludes - rents (2.7)",
+                "keywords": [
+                    "human settlements",
+                    "housing",
+                    "dwellings"
+                ],
+                "main_keys": ["human settlements"]
+            },
+            {
+                "code": "1.8",
+                "desc": "Justice and crime",
+                "detail": "activities including crime, convictions, operation of criminal justice systems, justice, safety, victims, clear-up rates, prison population, illicit drug production, trafficking and use, etc. ",
+                "keywords": [
+                    "security statistics",
+                    "peace statistics",
+                    "illicit drug production",
+                    "crime",
+                    "convictions",
+                    "criminal justice systems",
+                    "clear-up rates",
+                    "prison population",
+                    "justice",
+                    "victims",
+                    "trafficking",
+                    "safety statistics"
+                ],
+                "main_keys": ["peace","justice and crime"]
+            },
+            {
+                "code": "1.9",
+                "desc": "Culture",
+                "detail": "statistics dealing with cultural activities in society, like theatre, cinemas, museums, libraries, mass media, book production, sports, etc., including expenditure and financing of culture. ",
+                "keywords": [
+                    "mass media",
+                    "theatre",
+                    "cultural activities",
+                    "book production",
+                    "sports",
+                    "museums",
+                    "libraries",
+                    "culture",
+                    "cinemas"
+                ],
+                "main_keys": ["culture","cultural activities"]
+            },
+            {
+                "code": "1.10",
+                "desc": "Political and other community activities",
+                "detail": "statistics on voting turnout, participation in political and other community activities, trade union membership, social dialogue, civil society, social capital, etc. ",
+                "keywords": [
+                    "trade union membership",
+                    "voting turnout",
+                    "social dialogue",
+                    "social capital",
+                    "civil society",
+                    "political",
+                    "political participation",
+                    "politics"
+                ],
+                "main_keys": ["politics"]
+            },
+            {
+                "code": "1.11",
+                "desc": "Time use",
+                "detail": "statistics on the use of time by individuals, often related to work-life balance (reconciling family responsibilities and paid work); unpaid work. Excludes - working time (1.2) ",
+                "keywords": [
+                    "unpaid work",
+                    "work-life balance",
+                    "reconciling family responsibilities and paid work",
+                    "life balance",
+                    "use of time",
+                    "time use",
+                    "time-use"
+                ],
+                "main_keys": ["use of time"]
+            }
+        ]
+    },
+    {
+        "code": "2",
+        "desc": "Economic Statistics",
+        "detail": "Domains 1 to 3 relate to subject-matter activities, typically resulting in data outputs, but also including methodological work aimed at developing or revising standards, and activities related to technical cooperation or training specific to a subject area. ",
+        "main_keys": [],
+        "keywords": ["economic statistics"],
+        "activities": [
+            {
+                "code": "2.1",
+                "desc": "Macroeconomic statistics",
+                "detail": "all activities that are dealing with economy wide statistics at macro level that go beyond, or are different from National Accounts, whether annual, quarterly or monthly. Examples are macroeconomic databases that combine national accounts and other macroeconomic indicators like Main Economic Indicators (OECD), Principal European Economic Indicators (Eurostat), etc. ; business tendency and consumer opinion surveys, economic growth, stability and structural adjustment, cyclical indicators, statistics for business cycle analysis. Excludes: - methodology and frameworks of national accounts (2.2.) - collection and dissemination of national accounts and productivity data not linked to other macroeconomic statistics (2.2) ",
+                "keywords": [
+                    "macroeconomic indicators",
+                    "consumer opinion surveys",
+                    "business cycle analysis",
+                    "economy wide statistics",
+                    "cyclical indicators",
+                    "economic growth",
+                    "macroeconomic statistics",
+                    "macroeconomic databases",
+                    "business tendency",
+                    "structural adjustment",
+                    "productivity data",
+                    "statistics at macro level"
+                ],
+                "main_keys": ["macroeconomics"]
+            },
+            {
+                "code": "2.2",
+                "desc": "Economic accounts",
+                "detail": "covers work on National Accounts in both current and constant prices, dealing with topics like implementation of the 1993 System National Accounts (1993 SNA), update of the 1993 SNA, European System of Accounts (ESA95), Gross Domestic Product (GDP), Gross National Income (GNI), non-observed and informal economy, measurement of capital, input-output tables, balance sheets, etc. Excludes - agricultural economic accounts (in 2.4.1) - tourism satellite accounts (in 2.4.5) - detailed general government accounts (2.5) - financial accounts(2.5) - price statistics(2.7) - environmental accounts (3.1) ",
+                "keywords": [
+                    "non-observed  economy",
+                    "informal economy",
+                    "measurement of capital",
+                    "input-output tables",
+                    "informal economy",
+                    "current prices",
+                    "constant prices",
+                    "balance sheets"
+                ],
+                "upper_keywords": [
+                    "Gross Domestic Product",
+                    "GDP",
+                    "1993 System National Accounts",
+                    "1993 SNA",
+                    "European System of Accounts",
+                    "ESA95",
+                    "Gross National Income",
+                    "GNI",
+                    "National Account"
+                ],
+                "main_keys": ["nationanl accounts","economic accounts"]
+            },
+            {
+                "code": "2.3",
+                "desc": "Business statistics",
+                "detail": "economy wide statistics on the activities of enterprises, covers work on economic statistics across different sectors (as opposed to 2.4 that deals with specific individual sectors), deals with topics like statistics on economic activities of enterprises, business demography, business investment, business services, demand for services, industrial performance, enterprises by size class, industrial production, commodities, structure of sales and services, outputs of the service industries, non-profit institutions. Excludes: - business tendency surveys (2.1) - international trade (2.6) - prices (2.7) - labour cost (2.8) - science and technology (2.9) - ICT (3.3.3) - activities of foreign affiliates and multinational companies (3.3.4) ",
+                "keywords": [
+                    "informal sector",
+                    "formal sector",
+                    "activities of enterprises",
+                    "economy wide statistics",
+                    "economic activities of enterprises",
+                    "demand for services",
+                    "enterprises by size",
+                    "economic activities",
+                    "business investment",
+                    "business demography",
+                    "enterprises by size class",
+                    "service industries",
+                    "profit institutions",
+                    "industrial production",
+                    "industrial performance",
+                    "business services",
+                    "distributive-trade",
+                    "distributive trade"
+                ],
+                "main_keys": ["business"]
+            },
+            {
+                "code": "2.4",
+                "desc": "Sectoral statistics",
+                "detail": "statistical activities dealing with one of the specific branches of industry or services mentioned at the three digit level of the classification. Excludes: - education (1.3) - health (1.4) - social security (1.6) - culture (1.9) - statistics covering the whole industrial sector (2.3) - statistics covering the whole service or market service sector (2.3) - distributive trade (2.3) - government and public sector statistics (2.5) - research and development (2.9) - telecommunication statistics (3.3.3) ",
+                "keywords": ["three digit level of the industry classification system"],
+                "main_keys": [],
+                "subject_areas": [
+                    {
+                        "code": "2.4.1",
+                        "desc": "Agriculture, forestry, fisheries",
+                        "detail": "includes all agriculture, forestry and fishery related statistics, e.g. agricultural monetary statistics (agricultural economic accounts), agricultural structures (farm structure), trade in agricultural products, agricultural labour input, crop and animal production, agricultural commodities, agro-industry statistics (including food production and safety), organic farming and organic food, government expenditure for agriculture, fishing and forestry, products source and use tables, forest and forest product statistics, forest resource assessment and forest fire, trade in forest products, fisheries. Excludes - agricultural and similar prices (2.7) - rural development (3.2) ",
+                        "keywords": [
+                            "agricultural economic accounts",
+                            "agricultural structures",
+                            "food safety",
+                            "organic farming",
+                            "farm structure",
+                            "trade in agricultural products",
+                            "agricultural labour input",
+                            "agricultural monetary statistics",
+                            "fishery related statistics",
+                            "forest resource assessment",
+                            "food production",
+                            "forest product statistics",
+                            "organic food",
+                            "agricultural products",
+                            "agricultural commodities",
+                            "industry statistics",
+                            "animal production",
+                            "crop production",
+                            "forest products",
+                            "forest fire",
+                            "fisheries"
+                        ],
+                        "main_keys": ["agriculture","forests"]
+                    },
+                    {
+                        "code": "2.4.2",
+                        "desc": "Energy",
+                        "detail": "energy supply, energy use, energy balances, security of supply, energy markets, trade in energy, energy efficiency, renewable energy sources, government expenditure on energy. Excludes - energy prices (2.7) ",
+                        "keywords": [
+                            "renewable energy sources",
+                            "government expenditure on energy",
+                            "energy use",
+                            "energy prices",
+                            "energy markets",
+                            "energy efficiency",
+                            "energy balances",
+                            "energy supply",
+                            "energy statistics",
+                            "security of supply",
+                            "renewable energy sources"
+                        ],
+                        "main_keys": ["energy"]
+                    },
+                    {
+                        "code": "2.4.3",
+                        "desc": "Mining, manufacturing, construction",
+                        "detail": "statistics on specific industrial activities, e.g. steel, shipbuilding, and on construction, trade in specific products related to mining, manufacturing and construction. Excludes - prices of manufactured products (2.7) - construction prices (2.7) ",
+                        "keywords": [
+                            "construction",
+                            "steel statistics",
+                            "shipbuilding",
+                            "mining",
+                            "manufacturing"
+                        ],
+                        "main_keys": ["mining, manufacturing, construction"]
+                    },
+                    {
+                        "code": "2.4.4",
+                        "desc": "Transport",
+                        "detail": "covers statistics on all modes of transport (air, rail, road, inland waterways, sea), includes topics like transport infrastructure, equipment, traffic flows, personal mobility, safety, energy consumption, transport enterprises, passengers and freight transport, transport sector trends, road traffic accidents. Excludes - transport prices (2.7) ",
+                        "keywords": [
+                            "sea tranportation",
+                            "transport infrastructure",
+                            "transport sector trends",
+                            "road traffic accidents",
+                            "transport enterprises",
+                            "freight transport",
+                            "traffic flows",
+                            "personal mobility",
+                            "inland waterways",
+                            "transport",
+                            "road transport",
+                            "transport safety",
+                            "passenger safety",
+                            "passengers safety",
+                            "rail transport",
+                            "passengers",
+                            "modes of transport",
+                            "transport equipment",
+                            "air transport"
+                        ],
+                        "main_keys": ["transportation"]
+                    },
+                    {
+                        "code": "2.4.5",
+                        "desc": "Tourism",
+                        "detail": "covers statistics regarding visitor activity (such as arrivals/departures, overnight stays, expenditures, purpose of the visit, etc.) associated to different forms of tourism (inbound, domestic and outbound), tourism industries activity and infrastructure, employment and tourism satellite accounts. Excludes - prices for tourist services (2.7) - environmental impacts (3.1) ",
+                        "keywords": [
+                            "visitor activity",
+                            "tourism industries activity",
+                            "tourism satellite accounts",
+                            "tourist services",
+                            "overnight stays",
+                            "tourism",
+                            "purpose of the visit",
+                            "tourism infrastructure",
+                            "tourism industry",
+                            "visit expenditures",
+                            "tourism employment",
+                            "departures",
+                            "arrivals"
+                        ],
+                        "main_keys": ["tourism"]
+                    },
+                    {
+                        "code": "2.4.6",
+                        "desc": "Banking, insurance, financial statistics",
+                        "detail": "money, banking and financial market statistics, including financial accounts, money supply, interest rates, exchange rates, stock market indicators, securities, bank profitability, private sector insurance and pension fund statistics, Financial Soundness Indicators. Excludes - beneficiaries of private pension funds (1.6) - financing of state pension and of other state social security schemes (2.5) ",
+                        "keywords": [
+                            "financial statistics",
+                            "finance statistics",
+                            "banking market",
+                            "financial market",
+                            "stock market indicators",
+                            "private sector insurance",
+                            "financial accounts",
+                            "financial soundness indicators",
+                            "financial market statistics",
+                            "private pension funds",
+                            "pension fund",
+                            "interest rates",
+                            "pension fund",
+                            "interest rates",
+                            "exchange rates",
+                            "bank profitability",
+                            "money supply",
+                            "money statistics"
+                        ],
+                        "main_keys": ["baking","insurance"]
+                    }
+                ]
+            },
+            {
+                "code": "2.5",
+                "desc": "Government finance, fiscal and public sector statistics",
+                "detail": "all statistics related to the government sector, including debt and deficit, revenue and expenditure, accounts of the government sector, central government, tax rates and revenues, tax and benefit systems, financing of state pension and other state social security schemes, public sector employment. Excludes - government expenditure in specific areas, like health (1.4), education (1.3), research and development (2.9), etc. ",
+                "keywords": [
+                    "state social security schemes",
+                    "public sector employment",
+                    "financing of state pension",
+                    "government sector",
+                    "public deficit",
+                    "public debt",
+                    "central government",
+                    "benefit systems",
+                    "government expenditure",
+                    "government expenditure",
+                    "government revenue",
+                    "tax",
+                    "financing"
+                ],
+                "main_keys": ["financing","public sector"]
+            },
+            {
+                "code": "2.6",
+                "desc": "International trade and balance of payments",
+                "detail": "deals with statistics on all cross- border transactions recorded in the balance of payments, includes topics like trade in goods and services, external positions and debt, foreign direct investment, foreign affiliated trade, tariffs, market access, foreign aid, development assistance, resource flows to developing countries. Excludes: - trade in specific commodities/services mentioned in 2.4.1 to 2.4.5 - multinational companies and activities of foreign affiliates (3.3.4) ",
+                "keywords": [
+                    "non-tariff measures",
+                    "foreign direct investment",
+                    "foreign affiliated trade",
+                    "foreign aid",
+                    "resource flows to developing countries",
+                    "market access",
+                    "external positions",
+                    "external debt",
+                    "development assistance",
+                    "trade in goods",
+                    "trade in services",
+                    "tariffs"
+                ],
+                "main_keys": ["international trade","foregin aid"]
+            },
+            {
+                "code": "2.7",
+                "desc": "Prices",
+                "detail": "covers any statistical activity dealing with prices, including Purchasing Power Parities (PPPs) and international comparisons of GDP, covers topics like Consumer Price Indices (CPI), inflation, Producer Price Indices (PPI), price indexes for specific products and services (e.g. Information and Communication Technology products). Excludes - interest rates (2.4.6) - wages (2.8) ",
+                "keywords": [
+                    "services statistics",
+                    "price statistics",
+                    "consumer price indices",
+                    "price indexes",
+                    "price indexes",
+                    "inflation"
+                ],
+                "upper_keywords": [
+                    "International Comparison Programme",
+                    "Purchasing Power Parities",
+                    "PPPs",
+                    "Consumer Price Indices",
+                    "CPI",
+                    "Producer Price Indices",
+                    "PPI"
+                ],
+                "main_keys": ["prices"]
+            },
+            {
+                "code": "2.8",
+                "desc": "Labour cost",
+                "detail": "statistics activities on labour cost, earning and wages, both for structural and short-term statistics. Excludes - wages as part of total income of private households (1.5) ",
+                "keywords": [
+                    "labour cost",
+                    "labour wages",
+                    "labour earning"
+                ],
+                "main_keys": ["labour cost"]
+            },
+            {
+                "code": "2.9",
+                "desc": "Science, technology and innovation",
+                "detail": "includes Research and Development (R&D), innovation, patents, human resources (in science, technology and innovation), high tech industries and knowledge based services, biotechnology, financing of R&D and innovation. Excludes: - information and communication technologies (ICTs) (3.3.3) ",
+                "keywords": [
+                    "innovation",
+                    "high tech industries",
+                    "knowledge based services",
+                    "innovation",
+                    "research",
+                    "research and development",
+                    "human resources in science",
+                    "human resources in technology",
+                    "human resources in innovation",
+                    "science",
+                    "biotechnology"
+                ],
+                "upper_keywords": [
+                    "Research and Development",
+                    "R&D"
+                ],
+                "main_keys": ["science","technology","innovation"]
+            }
+        ]
+    },
+    {
+        "code": "3",
+        "desc": "Environment and multi-domain statistics",
+        "detail": "Domains 1 to 3 relate to subject-matter activities, typically resulting in data outputs, but also including methodological work aimed at developing or revising standards, and activities related to technical cooperation or training specific to a subject area. ",
+        "main_keys": [],
+        "activities": [
+            {
+                "code": "3.1",
+                "desc": "Environment",
+                "detail": "includes topics like climate, climate change (including measurement of the socio-economic aspects of climate change impacts, vulnerability and adaptation), biodiversity, environment and health, natural resources, soil, water, air, landscape, waste, environmental expenditure, expenditure for the protection of the environment, environmental accounts, agri-environmental indicators, environmental pressure, environmental impact of industry, transport, energy etc., environmental monitoring, material flow analysis, environmental decoupling indicators, pollution, ecosystems, land use and cover, environmental protection, nationally protected areas. Excludes - environment as part of sustainable development (3.3.6) ",
+                "keywords": [
+                    "disaster-related data",
+                    "disaster-related statistics",
+                    "disaster risk",
+                    "disaster information",
+                    "waste statistics",
+                    "environmental accounting",
+                    "environmental monitoring",
+                    "nationally protected areas",
+                    "material flow analysis",
+                    "biodiversity",
+                    "ecosystems",
+                    "land cover",
+                    "climate change",
+                    "environmental decoupling indicator",
+                    "environmental indicator",
+                    "environmental pressure",
+                    "environmental impact",
+                    "environmental account",
+                    "natural resources",
+                    "land use",
+                    "environmental protection",
+                    "pollution"
+                ],
+                "main_keys": ["environment","climate change"]
+            },
+            {
+                "code": "3.2",
+                "desc": "Regional and small area statistics",
+                "detail": "activities dealing with regional statistics and statistics referring to sub-national areas or areas based on administrative units, urban and rural statistics, rural development, regional accounts, regional typologies, and regional disparities. ",
+                "keywords": [
+                    "subregional statistics",
+                    "regional statistics",
+                    "small area statistics",
+                    "rural statistics",
+                    "rural development",
+                    "regional typologies",
+                    "sub-national statistics",
+                    "regional disparities",
+                    "regional accounts",
+                    "national areas",
+                    "areas based",
+                    "administrative unit statistics",
+                    "urban statistics"
+                ],
+                "main_keys": ["regional statistics","small area statistics"]
+            },
+            {
+                "code": "3.3",
+                "desc": "Multi-domain statistics and indicators",
+                "detail": "deals with conceptual or data work based on a specific thematic approach to outputs that cut across several economic, social or environmental subject areas; the two-digit-level of the classification covers activities dealing with such type of issues that are not explicitly mentioned at the three-digit level. Excludes: - multi-domain statistics based on a regional approach (3.2) - yearbook type of compendia or similar products by international organizations not following a specific thematic approach (3.4) ",
+                "keywords": [
+                    "cross-cut",
+                    "coss-cutting",
+                    "environmental-economic"
+                ],
+                "subject_areas": [
+                    {
+                        "code": "3.3.1",
+                        "desc": "Living conditions, poverty and cross-cutting social issues",
+                        "detail": "includes work on multidimensional methods to measure poverty, living conditions in the broad sense, social inclusion/exclusion, social indicators, and social situation. Excludes: - purely monetary approach to poverty (1.5) ",
+                        "keywords": [
+                            "poverty",
+                            "social situation",
+                            "social indicators",
+                            "social inclusion",
+                            "social exclusion",
+                            "living conditions",
+                            "cross-cutting social issues"
+                        ],
+                        "main_keys": ["poverty","living conditions"]
+                    },
+                    {
+                        "code": "3.3.2",
+                        "desc": "Gender and special population groups",
+                        "detail": "their living conditions and role in the society: comparisons men/women and situation of special population groups like children, youth, women, elderly, disabled, minority groups, etc. ",
+                        "keywords": [
+                            "special population groups",
+                            "minority groups",
+                            "living conditions",
+                            "children",
+                            "youth",
+                            "women",
+                            "elderly",
+                            "gender",
+                            "disabled"
+                        ],
+                        "main_keys": ["special populations groups"]
+                    },
+                    {
+                        "code": "3.3.3",
+                        "desc": "Information society",
+                        "detail": "statistics allowing to assess the use and impact of information and communication technologies on society, includes access and use of ICTs (including Internet), ICT expenditure and investment, ICT infrastructure, telecommunication networks, electronic communications, e-government, electronic commerce, e-learning, broadband penetration, ICT services, communication tariffs, network infrastructure, revenues, expenses and investment of operators, Internet indicators, trade in telecommunications equipment. ",
+                        "keywords": [
+                            "internet",
+                            "internet indicators",
+                            "e-government",
+                            "telecommunications equipment",
+                            "telecommunication networks",
+                            "network infrastructure",
+                            "electronic communications",
+                            "electronic commerce",
+                            "communication tariffs",
+                            "broadband penetration",
+                            "information society"
+                        ],
+                        "upper_keywords": [
+                            "Information and Communication Technologies",
+                            "ICT"
+                        ],
+                        "main_keys": ["information society","internet"]
+                    },
+                    {
+                        "code": "3.3.4",
+                        "desc": "Globalisation",
+                        "detail": "deals with measuring the economic activities of multinational companies, as well as with attempts to measure globalisation through a variety of components from other subject areas. ",
+                        "keywords": [
+                            "multinational companies",
+                            "globalisation",
+                            "globalization"
+                        ],
+                        "main_keys": ["globalization"]
+                    },
+                    {
+                        "code": "3.3.5",
+                        "desc": "Indicators related to the Millennium Development Goals",
+                        "detail": "work on sets of indicators to monitor the achievement of the Millennium Development Goals agreed upon at the UN Millennium Summit. ",
+                        "keywords": [],
+                        "upper_keywords": [
+                            "Millennium Development Goals",
+                            "UN Millennium Summit"
+                        ],
+                        "main_keys": ["Millenium Development Goals"]
+                    },
+                    {
+                        "code": "3.3.6",
+                        "desc": "Sustainable development",
+                        "detail": "work on indicators and frameworks to monitor the economic, social and environmental dimensions of sustainable development. ",
+                        "keywords": [
+                            "development agenda",
+                            "partnership for the goals",
+                            "development indicators",
+                            "sustainable development",
+                            "dimensions of development"
+                        ],
+                        "upper_keywords": [
+                            "2030 Agenda",
+                            "Sustainable Development Goals",
+                            "SDG",
+                            "SDGs",
+                            "No Poverty",
+                            "Zero Hunger",
+                            "Good Health and Well-Being",
+                            "Quality Education",
+                            "Gender Equality",
+                            "Clean Water and Sanitation",
+                            "Affordable and Clean Energy",
+                            "Decent Work and Economic Growth",
+                            "Industry, Innovation and Infraestructure",
+                            "Reduced Inequalities",
+                            "Sustainable Cities and Communities",
+                            "Responsible Consumption and Production",
+                            "Climate Action",
+                            "Life Below Water",
+                            "Life on Land",
+                            "Peace, Justice and Strong Institutions"
+                        ],
+                        "main_keys": ["sustainable development"]
+                    },
+                    {
+                        "code": "3.3.7",
+                        "desc": "Entrepreneurship",
+                        "detail": "the measurement of the determinants, performance and impact of entrepreneurial activities of people and organizations. ",
+                        "keywords": [
+                            "entrepreneurial activities",
+                            "entrepeneurship"
+                        ],
+                        "main_keys": ["entrepreneurship"]
+                    }
+                ]
+            },
+            {
+                "code": "3.4",
+                "desc": "Yearbooks and similar compendia",
+                "detail": "multi-domain statistical publications, databases and other data products without specific thematic or issue-oriented focus. Excludes: - Multi-domain statistical products based on specific thematic approaches, like sustainable development, MDGs etc. (under 3.3.1 to 3.3.5) ",
+                "keywords": [
+                    "data products without specific thematic",
+                    "data products without issue-oriented focus",
+                    "databases without specific thematic",
+                    "databases without issue-oriented focus",
+		    "multi-domain statistical publications",
+		    "multi-domain statistical databases"
+                ],
+                "main_keys": ["multi-domain statistical products"]
+            }
+        ]
+    },
+    {
+        "code": "4",
+        "desc": "Methodology of data collection, processing, dissemination and analysis",
+        "detail": "Domains 4 and 5 cover substantive cross-cutting issues which do not relate directly to outputs, but are more process and organization oriented (e.g. general census or survey methodology, statistical coordination, statistical information systems, etc.). ",
+        "keywords": [
+            "data management",
+            "data revolution"
+        ],
+        "activities": [
+            {
+                "code": "4.1",
+                "desc": "Metadata",
+                "detail": "covers developing, harmonising and standardising metadata models, structures and frameworks in the context of statistical information processing and dissemination, deals also with harmonising the statistical terminology and definitions. Excludes: standards for electronic data exchange in statistics (5.5) ",
+                "keywords": [
+                    "metadata",
+                    "metadata exchange",
+                    "metadata model",
+                    "electronic data exchange",
+                    "statistical information processing",
+                    "statistical information dissemination",
+                    "statistical terminology"
+                ],
+                "main_keys": ["metadata","information processing"]
+            },
+            {
+                "code": "4.2",
+                "desc": "Classifications",
+                "detail": "activities related to developing, managing, maintaining and harmonizing economic, social and environmental classifications. ",
+                "keywords": ["classification"],
+                "main_keys": ["classifications"]
+            },
+            {
+                "code": "4.3",
+                "desc": "Data sources",
+                "detail": "dealing with different methods of data collection from respondents and different forms of data sources at national level. Includes activities on electronic data reporting and Internet reporting which are not directly related to specific censuses or surveys. The two digit-level includes only activities that cannot be allocated to a three-digit item, as well as sources other than censuses, surveys or administrative records, such as satellite images or other observation type sources Excludes: methods by which international organizations collect data from national producers (5.6) ",
+                "keywords": [
+                    "proprietary data",
+                    "big data",
+                    "social media data",
+                    "satellite data",
+                    "mobile phone data",
+                    "geospatial information",
+                    "spatial data",
+                    "geographic information",
+                    "integration of geographical and statistical information",
+                    "methods of data collection",
+                    "observation type sources",
+                    "basic sources",
+                    "electronic data reporting",
+                    "data sources",
+                    "data collection",
+                    "internet reporting",
+                    "satellite images"
+                ],
+		"main_keys":["data sources"],
+                "subject_areas": [
+                    {
+                        "code": "4.3.1",
+                        "desc": "Population and housing censuses; registers of population, dwellings and buildings",
+                        "detail": "methodology and organization of population and housing censuses, including register based censuses, development and maintenance of statistical registers of population, buildings and dwellings covering and following the whole resident population. Excludes: - collection of national statistical results from population censuses by international organizations and subsequent dissemination of international statistics (1.1. or other relevant area of Domain 1) - civil and vital events registers (4.3.5) - administrative sources on persons generated by the social security system or kept for special population groups in their use for other statistical activities than 4.3.1 (4.3.5) ",
+                        "keywords": [
+                            "whole resident population",
+                            "population census",
+                            "registers of population",
+                            "registers of buildings",
+                            "registers of dwellings",
+                            "register based census",
+                            "housing census"
+                        ],
+                        "main_keys": ["population census and registers","housing census and registers"]
+                    },
+                    {
+                        "code": "4.3.2",
+                        "desc": "Business and agricultural censuses and registers",
+                        "detail": "methodology and organization of economic and agricultural censuses, development and maintenance of statistical business and agricultural registers. Excludes: - administrative sources on subsets of agricultural holdings or businesses and their activities in their use for other statistical activities than 4.3.2 (4.3.5) - collection of national statistical results from the sources in 4.3.2 by international organizations and subsequent dissemination of international statistics (2.3 or other relevant area of Domain 2) ",
+                        "keywords": [
+                            "agricultural registers",
+                            "agricultural censuses",
+                            "business censuses",
+                            "business registers"
+                        ],
+                        "main_keys": ["business and agricultural censuses and registers"]
+                    },
+                    {
+                        "code": "4.3.3",
+                        "desc": "Household surveys",
+                        "detail": "methodology and organization of household sample surveys including sample designs; international surveys with direct data collection from households such as Living Standard Measurement Survey or World Health Survey. Excludes. Dissemination of international statistics based on direct survey activities of international organizations (relevant area of domain 1) ",
+                        "keywords": [
+                            "household survey"
+                        ],
+                        "upper_keywords": [
+                            "Living Standard Measurement Survey",
+                            "World Health Survey"
+                        ],
+                        "main_keys": ["household surveys"]
+                    },
+                    {
+                        "code": "4.3.4",
+                        "desc": "Business and agricultural surveys",
+                        "detail": "methodology and organization of business and agricultural surveys, including sampling, and international surveys with direct data collection from businesses. Excludes: Dissemination of international statistics based on direct survey activities of international organizations (relevant area of domain 2) ",
+                        "keywords": [
+                            "agricultural surveys",
+                            "businesses survey",
+                            "business survey"
+                        ],
+                        "main_keys": ["business and agricultural surveys"]
+                    },
+                    {
+                        "code": "4.3.5",
+                        "desc": "Other administrative sources",
+                        "detail": "addresses the suitability of administrative sources for official statistics, the legal, organizational and conceptual problems of accessing administrative sources, the use of registers and other administrative sources in other contexts than censuses ",
+                        "keywords": [
+                            "administrative sources"
+                        ],
+                        "main_keys": ["administrative sources for official statistics"]
+                    }
+                ]
+            },
+            {
+                "code": "4.4",
+                "desc": "Data editing and data linkage",
+                "detail": "methodological, organizational and legal issues related to data quality control at the collection phase, including data editing and imputation and use of geo-referenced data. ",
+                "keywords": [
+                    "data interoperability",
+                    "data integration",
+                    "reliable data",
+                    "data quality",
+                    "data editing",
+                    "data linkage",
+                    "geo-referenced data",
+                    "imputation"
+                ],
+                "main_keys": ["data editing","data linkage"]
+            },
+            {
+                "code": "4.5",
+                "desc": "Dissemination, data warehousing",
+                "detail": "policies, strategies, methods and techniques of data dissemination, design and organization of output databases and data warehouses, including feedback from users, communicating with the media, work of NSO press offices, data and metadata presentation, electronic dissemination (Internet), statistical portals. Excludes: multi-domain databases as products (3.4) ",
+                "keywords": [
+                    "data hub",
+                    "users of statistics",
+                    "compiling",
+                    "compilation",
+                    "database",
+                    "data dissemination",
+                    "data warehouse",
+                    "data warehousing",
+                    "design of database",
+                    "design of warehouses",
+                    "design of organization of warehouse",
+                    "statistical portal"
+                ],
+                "main_keys": ["data dissemination","data warehousing"]
+            },
+            {
+                "code": "4.6",
+                "desc": "Statistical confidentiality and disclosure protection",
+                "detail": "legal, organizational and technical measures to safeguard confidentiality of statistical data, methods of releasing microdata while protecting against disclosure of individual data. ",
+                "keywords": [
+                    "information policy",
+                    "data confidentiality",
+                    "safeguard confidentiality",
+                    "individual data",
+                    "protecting data",
+                    "disclosure protection",
+                    "microdata"
+                ],
+                "main_keys": ["confidentiality"]
+            },
+            {
+                "code": "4.7",
+                "desc": "Data analysis",
+                "detail": "methods of data analysis in official statistics for other purposes than editing/quality management, e.g. seasonal adjustment, methods for constructing composite indicators, identification of causal factors, extrapolation, scenario and model building etc. ",
+                "keywords": [
+                    "model building",
+                    "constructing composite indicators",
+                    "seasonal adjustment",
+                    "data analysis",
+                    "causal factors",
+                    "extrapolation"
+                ],
+                "main_keys": ["data analysis"]
+            }
+        ]
+    },
+    {
+        "code": "5",
+        "desc": "Strategic and managerial issues of official statistics",
+        "detail": "Domains 4 and 5 cover substantive cross-cutting issues which do not relate directly to outputs, but are more process and organization oriented (e.g. general census or survey methodology, statistical coordination, statistical information systems, etc.). ",
+        "activities": [
+            {
+                "code": "5.1",
+                "desc": "Institutional frameworks and principles; role and organization of official statistics",
+                "detail": "activities dealing with developing, harmonising and revising the institutional framework and principles of official statistics at national and international level, like fundamental principles of official statistics, organizational and legal aspects of national statistical systems, functioning and coordination of the statistical systems, organization of statistical offices, promotion of official statistics. ",
+                "keywords": [
+                    "institutional policy",
+                    "statistical-spatial framework",
+                    "global statistical geospatial framework",
+                    "international statistical geospatial framework",
+                    "spatial framework",
+                    "data governance",
+                    "codes of practice",
+                    "strategic framework",
+                    "guidelines",
+                    "best practices",
+                    "principles",
+                    "standards",
+                    "good practices",
+                    "national data",
+                    "national statistical systems",
+                    "statistical systems",
+                    "organization of statistical offices",
+                    "legal aspects of national statistical systems",
+                    "institutional framework",
+                    "institutional principles",
+                    "activities dealing with official statistics"
+                ],
+                "upper_keywords": [
+                    "Principles of Official Statistics"
+                ],
+                "main_keys": ["official statistics"]
+            },
+            {
+                "code": "5.2",
+                "desc": "Statistical programmes; coordination within statistical systems",
+                "detail": "compiling the statistical work programmes of statistical organizations, coordinating the work within national and international statistical organizations (e.g. coordination of activities between headquarters and organizations in the field, coordination of decentralised statistical organizations), processes for setting up national statistical programmes, including relationship with users and respondents etc. Excludes: coordination between international statistical agencies (5.6) ",
+                "keywords": [
+                    "programme of work",
+                    "work programme",
+                    "decentralised statistical organization",
+                    "coordination within statistical system",
+                    "work within national organization",
+                    "work within international organization",
+                    "statistical organization",
+                    "statistical programme",
+                    "statistics programme"
+                ],
+                "main_keys": ["statistical systems"]
+            },
+            {
+                "code": "5.3",
+                "desc": "Quality frameworks and measurement of performance of statistical systems and offices",
+                "detail": "implementation of quality models, development and use of quality management tools, harmonisation of quality assessment frameworks, performance indicators for statistical organizations. ",
+                "keywords": [
+                    "transparent",
+                    "transparency",
+                    "accountability",
+                    "national quality assurance frameworks",
+                    "quality assurance tools",
+                    "quality tools",
+                    "quality frameworks",
+                    "quality models",
+                    "performance of statistical organizations",
+                    "performance of statistical offices",
+                    "performance indicators"
+                ],
+                "main_keys": ["transparency","quality tools"]
+            },
+            {
+                "code": "5.4",
+                "desc": "Management and development of human resources",
+                "detail": "organization of human resources management and training in national and international statistical agencies. ",
+                "keywords": [
+                    "human resources management",
+                    "training",
+                    "development of human resources"
+                ],
+                "main_keys": ["training","development of human resources"]
+            },
+            {
+                "code": "5.5",
+                "desc": "Management and development of technological resources (including standards for electronic data exchange and data sharing)",
+                "detail": "includes electronic data processing, IT infrastructure, data exchange standards (like EDIFACT/GESMES and SDMX), ICT strategies for statistics at national and international level. Excludes: - metadata (4.1) - electronic data reporting (4.3) - data editing (4.4) - output databases and data warehouses (4.5) ",
+                "keywords": [
+                    "open data",
+                    "data exchange",
+                    "interoperability",
+                    "data sharing",
+                    "management of technological resources",
+                    "development of technological resources",
+                    "standards for electronic data exchange",
+                    "standards for electronic data sharing",
+                    "electronic data processing",
+                    "it infraestructure",
+                    "data exchange standards"
+                ],
+                "upper_keywords": [
+                    "EDIFACT/GESMES",
+                    "SDMX",
+                    "ICT strategies"
+                ],
+                "main_keys": ["open data","data exchange","data sharing"]
+            },
+            {
+                "code": "5.6",
+                "desc": "Coordination of international statistical work",
+                "detail": "coordination of statistical activities across international and supranational statistical organizations, includes work on the Database of International Statistical Activities, work of the Conference of European Statisticians, Statistical Commission and the Coordinating Committee of Statistical Activities ",
+                "keywords": [
+                    "coordination mechanism",
+                    "partnership",
+                    "global statistical community",
+                    "governance",
+                    "high-level",
+                    "coordinations mechanisms",
+                    "coordination among international organizations",
+                    "coordination among national organizations",
+                    "coordination of statistical work",
+                    "coordination of statistical activities",
+                    "statistical activities across international organizations",
+                    "international statistical activities",
+                    "supranational statistical organizations"
+                ],
+                "upper_keywords": [
+                    "Economic and Social Council",
+                    "ECOSOC",
+                    "Committee for the Coordination of Statistical Activities",
+                    "Conference of European Statisticians",
+                    "Coordinating Committee of Statistical Activities",
+                    "Committee of Experts",
+                    "Expert Group",
+                    "Inter-Agency",
+                    "Friends of the Chair",
+                    "Task Force",
+                    "Working Group",
+                    "Intersecretariat"
+                ],
+                "main_keys": ["coordinations mechanisms","partnerships"]
+            },
+            {
+                "code": "5.7",
+                "desc": "Technical cooperation and capacity building",
+                "detail": "covers general bilateral and multilateral technical and capacity building activities. Excludes: technical cooperation in specific subject areas (given under the relevant areas in Domains 1-3).",
+                "keywords": [
+                    "collaboration",
+                    "technical cooperation",
+                    "technical assistance",
+                    "capacity building",
+                    "capacity-building",
+                    "guidance",
+                    "statistical capacity",
+                    "building of country capacities"
+                ],
+                "upper_keywords": [
+                    "General Assembly",
+                    "International Monetary Funds",
+                    "World Bank",
+                    "World Health Organization",
+                    "Economic and Social Council"
+                ],
+                "main_keys": ["capacity building","technical cooperation"]
+            }
+        ]
+    }
+]
